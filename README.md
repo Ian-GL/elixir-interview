@@ -1,4 +1,4 @@
-# Yals
+# Elixir interview practice
 
 This is a repo that contains examples of common interview questions made with Elixir.
 
